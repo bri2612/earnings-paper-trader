@@ -16,7 +16,8 @@ Paper trading only. No real orders are ever placed. See `REPORT.md` for the late
    With UK retail costs, unhedged, about £200/trade: strategy +£679 vs S&P 500 +£510 over 396 trades, which is not a meaningful difference.
 4. Caveats: survivorship bias (only current S&P 500 members), Yahoo data quality, ~52% hit rate even in good years.
 
-## Frozen rule being paper traded
+## Strategies being paper traded
+See STRATEGIES.md (8 pre-registered strategies, A–H). Original rule A:
 Buy at next open if EPS surprise >5% and day-0 return vs SPY >3%; sell at close 20 sessions later.
 Costs are modelled as 0.30% round trip (UK app FX fees). Every trade is compared against SPY over the same dates.
 
