@@ -1,0 +1,4 @@
+__pycache__/
+data/prices*.pkl
+data/events.pkl
+data/backtest_predictions.csv
