@@ -1,19 +1,20 @@
-# Paper-trading report — 2026-11-01
+# Paper-trading report — 2026-11-02
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
-| | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | Open | Verdict |
-|---|---|---|---|---|---|---|---|---|---|---|
-| A | Beat >5% and up >3% vs S&P on the day; hold 20 days | 0 | | | | | | | 0 | no-go |
-| B | Same as A; hold 5 days | 0 | | | | | | | 0 | no-go |
-| C | Same as A; hold 60 days | 0 | | | | | | | 0 | no-go |
-| D | Strong: beat >10% and up >5%; hold 20 days | 0 | | | | | | | 0 | no-go |
-| E | A plus volume > 3x normal; hold 20 days | 0 | | | | | | | 0 | no-go |
-| F | A plus closed above its open (no fade); hold 20 days | 0 | | | | | | | 0 | no-go |
-| G | A plus within 5% of 1-year high; hold 20 days | 0 | | | | | | | 0 | no-go |
-| H | Bounce: beat estimates but fell >5% vs S&P; hold 20 days | 0 | | | | | | | 0 | no-go |
+| | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | £500 plan: extra vs S&P | Open | Verdict |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| A | Beat >5% and up >3% vs S&P on the day; hold 20 days | 0 | | | | | | | | 0 | no-go |
+| B | Same as A; hold 5 days | 0 | | | | | | | | 0 | no-go |
+| C | Same as A; hold 60 days | 0 | | | | | | | | 0 | no-go |
+| D | Strong: beat >10% and up >5%; hold 20 days | 0 | | | | | | | | 0 | no-go |
+| E | A plus volume > 3x normal; hold 20 days | 0 | | | | | | | | 0 | no-go |
+| F | A plus closed above its open (no fade); hold 20 days | 0 | | | | | | | | 0 | no-go |
+| G | A plus within 5% of 1-year high; hold 20 days | 0 | | | | | | | | 0 | no-go |
+| H | Bounce: beat estimates but fell >5% vs S&P; hold 20 days | 0 | | | | | | | | 0 | no-go |
 
 Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0.5%/trade, t ≥ 2.5, worst drawdown better than −20%.
+£500 plan = keep £500 in an S&P 500 fund and move £10 into each signal; the column shows how much more (or less) that would have made than just holding the fund.
 
 **Verdict: NO-GO — keep paper trading**
 

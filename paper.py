@@ -24,6 +24,7 @@ from events import D, build
 
 COST = 0.003
 STAKE = 200
+SLICE = 10  # £500 plan: £10 per trade, rest kept in an S&P 500 fund
 LOG = D / "paper_trades.csv"
 ET = ZoneInfo("America/New_York")
 
@@ -144,8 +145,8 @@ def report(out):
     if "status" not in out: out = out.assign(status="waiting for entry")
     L = [f"# Paper-trading report — {dt.date.today()}", "",
          "Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.", "",
-         "| | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | Open | Verdict |",
-         "|---|---|---|---|---|---|---|---|---|---|---|"]
+         "| | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | £500 plan: extra vs S&P | Open | Verdict |",
+         "|---|---|---|---|---|---|---|---|---|---|---|---|"]
     best = None
     for k, (desc, _, hold, start) in STRATEGIES.items():
         sub = out[(out.strategy == k) & (out.forward == True)]
@@ -154,12 +155,14 @@ def report(out):
         if go: best = best or k
         if s["n"]:
             L.append(f"| {k} | {desc} | {s['n']} | {s['win']:.0%} | {s['avg']:+.2f}% | {s['spy']:+.2f}% | "
-                     f"{s['ex']:+.2f}% | {s['t']:.1f} | £{s['pnl']:+.0f} | {n_open} | {'**GO**' if go else 'no-go'} |")
+                     f"{s['ex']:+.2f}% | {s['t']:.1f} | £{s['pnl']:+.0f} | £{s['n'] * SLICE * s['ex'] / 100:+.2f} | {n_open} | {'**GO**' if go else 'no-go'} |")
         else:
-            L.append(f"| {k} | {desc} | 0 | | | | | | | {n_open} | no-go |")
+            L.append(f"| {k} | {desc} | 0 | | | | | | | | {n_open} | no-go |")
     L += ["", "Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0.5%/trade, "
-          "t ≥ 2.5, worst drawdown better than −20%.", "",
-          f"**Verdict: {'GO — strategy ' + best + ' passed; start at £200 per trade' if best else 'NO-GO — keep paper trading'}**", ""]
+          "t ≥ 2.5, worst drawdown better than −20%.",
+          "£500 plan = keep £500 in an S&P 500 fund and move £10 into each signal; the column shows how much "
+          "more (or less) that would have made than just holding the fund.", "",
+          f"**Verdict: {'GO — strategy ' + best + ' passed; start the £500 plan: £500 in an S&P 500 fund, move £10 into each signal' if best else 'NO-GO — keep paper trading'}**", ""]
 
     new = out[out.status == "waiting for entry"]
     L.append("## BUY tomorrow at the US open (2:30pm UK) — paper")
