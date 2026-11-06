@@ -165,7 +165,7 @@ def report(out):
           f"**Verdict: {'GO — strategy ' + best + ' passed; start the £500 plan: £500 in an S&P 500 fund, move £10 into each signal' if best else 'NO-GO — keep paper trading'}**", ""]
 
     new = out[out.status == "waiting for entry"]
-    L.append("## BUY tomorrow at the US open (2:30pm UK) — paper")
+    L.append("## BUY at the next US open (2:30pm UK) — paper")
     if len(new):
         for sym, g in new.groupby("sym"):
             r = g.iloc[0]
@@ -175,7 +175,7 @@ def report(out):
         L.append("- none")
     L.append("")
     sell = out[(out.status == "open") & (out.held == out.hold - 1)]
-    L.append("## SELL tomorrow, any time before the US close (9pm UK) — paper")
+    L.append("## SELL on the next trading day, any time before the US close (9pm UK) — paper")
     L += [f"- {r.sym} (strategy {r.strategy}, bought {r.entry}, now {r.ret_pct:+.1f}%)" for r in sell.itertuples()] or ["- none"]
     txt = "\n".join(L)
     (D.parent / "REPORT.md").write_text(txt)
