@@ -266,3 +266,7 @@ QCOM,2026-11-05,0.48,-0.0508329082726866,2026-11-05 17:43,True,H,20,reconstructe
 ROK,2026-11-05,5.05,-0.0974555482555131,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-06,1.0,open,-3.26,-0.24,-3.03,-6.52
 SMCI,2026-11-04,46.61,-0.0735420609294715,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-06,2.0,open,1.25,-4.24,5.5,2.51
 ZBRA,2026-11-03,0.89,-0.0905778236875276,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-06,3.0,open,-3.52,-3.93,0.41,-7.05
+AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-07 05:18,True,I,20,,,,,waiting for entry,,,,
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-07 05:18,True,I,20,,,,,waiting for entry,,,,
+MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-07 05:18,True,I,20,,,,,waiting for entry,,,,
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-07 05:18,True,I,20,,,,,waiting for entry,,,,

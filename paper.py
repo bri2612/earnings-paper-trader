@@ -44,6 +44,8 @@ STRATEGIES = {
           lambda d: A(d) & (d.dist_hi > -.05), 20, "2026-10-30"),
     "H": ("Bounce: beat estimates but fell >5% vs S&P; hold 20 days",
           lambda d: (d.surp > 0) & (d.day0 < -.05), 20, "2026-10-30"),
+    "I": ("A plus repeat beater (beat in >=75% of last 8 reports and last one); hold 20 days",
+          lambda d: A(d) & (d.beat_rate8 >= .75) & (d.last_surp > 0), 20, "2026-11-06"),
 }
 
 

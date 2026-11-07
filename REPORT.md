@@ -1,4 +1,4 @@
-# Paper-trading report — 2026-11-06
+# Paper-trading report — 2026-11-07
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
@@ -12,6 +12,7 @@ Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% 
 | F | A plus closed above its open (no fade); hold 20 days | 0 | | | | | | | | 28 | no-go |
 | G | A plus within 5% of 1-year high; hold 20 days | 0 | | | | | | | | 20 | no-go |
 | H | Bounce: beat estimates but fell >5% vs S&P; hold 20 days | 0 | | | | | | | | 30 | no-go |
+| I | A plus repeat beater (beat in >=75% of last 8 reports and last one); hold 20 days | 0 | | | | | | | | 0 | no-go |
 
 Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0.5%/trade, t ≥ 2.5, worst drawdown better than −20%.
 £500 plan = keep £500 in an S&P 500 fund and move £10 into each signal; the column shows how much more (or less) that would have made than just holding the fund.
@@ -20,12 +21,12 @@ Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0
 
 ## BUY at the next US open (2:30pm UK) — paper
 - ABNB (strategies A,B,C,D): beat by 11.0%, +11.4% vs S&P on report day
-- AKAM (strategies A,B,C): beat by 5.8%, +6.4% vs S&P on report day
+- AKAM (strategies A,B,C,I): beat by 5.8%, +6.4% vs S&P on report day
 - BEN (strategies A,B,C,F): beat by 21.9%, +4.4% vs S&P on report day
-- HUM (strategies A,B,C,D,F,G): beat by 30.3%, +5.0% vs S&P on report day
+- HUM (strategies A,B,C,D,F,G,I): beat by 30.3%, +5.0% vs S&P on report day
 - MCHP (strategies H): beat by 3.4%, -10.3% vs S&P on report day
-- MRNA (strategies A,B,C,F): beat by 130.3%, +5.0% vs S&P on report day
-- SOLV (strategies A,B,C,E,F): beat by 7.9%, +3.4% vs S&P on report day
+- MRNA (strategies A,B,C,F,I): beat by 130.3%, +5.0% vs S&P on report day
+- SOLV (strategies A,B,C,E,F,I): beat by 7.9%, +3.4% vs S&P on report day
 
 ## SELL on the next trading day, any time before the US close (9pm UK) — paper
 - IDXX (strategy B, bought 2026-11-03, now +1.8%)
