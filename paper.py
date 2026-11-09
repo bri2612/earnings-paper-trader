@@ -63,19 +63,27 @@ def update_earnings(days_back=6):
     ts = pd.to_datetime(ed["Earnings Date"], utc=True)
     now = pd.Timestamp.now(tz="UTC")
     due = ed[(ts >= now - pd.Timedelta(days=days_back)) & (ts <= now)]
-    syms = sorted(set(due.sym))
+    # most recent reporters first, so tonight's signals are captured even if time runs out
+    syms = list(dict.fromkeys(due.assign(_t=ts[due.index]).sort_values("_t", ascending=False).sym))
     print("refreshing earnings for", len(syms), "companies")
     fresh = []
+    start, budget, skipped = time.time(), 420, []
     for s in syms:
-        for attempt in range(3):
+        if time.time() - start > budget:
+            skipped.append(s); continue
+        for attempt in range(2):
             try:
                 e = yf.Ticker(s).get_earnings_dates(limit=12)
                 if e is not None:
                     e = e.reset_index(); e["sym"] = s; fresh.append(e)
                 break
             except Exception as ex:
-                print(s, "retry", attempt, str(ex)[:80]); time.sleep(10 * (attempt + 1))
+                print(s, "retry", attempt, str(ex)[:80])
+                if attempt == 1: skipped.append(s)
+                else: time.sleep(15)
         time.sleep(0.7)
+    print(f"earnings refreshed: {len(fresh)}, skipped (time limit or Yahoo refusal): {len(skipped)}",
+          ("e.g. " + ", ".join(skipped[:10])) if skipped else "")
     if fresh:
         all_ = pd.concat([pd.concat(fresh), ed])  # new rows first so they win on duplicates
         all_["_k"] = pd.to_datetime(all_["Earnings Date"], utc=True).dt.normalize()
