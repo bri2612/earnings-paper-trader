@@ -1,272 +1,300 @@
 sym,rdate,surp,day0,logged_at_et,forward,strategy,hold,note,entry,exit_or_mark,held,status,ret_pct,spy_pct,excess_pct,pnl_gbp
-APH,2026-10-28,9.46,0.0317186338313362,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-09,8,open,-1.26,-2.39,1.14,-2.51
-CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,4.65,-1.19,5.84,9.29
-CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,-9.64,-1.19,-8.45,-19.28
-D,2026-10-30,6.0,0.0407634379645813,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,1.98,-1.19,3.17,3.96
-DASH,2026-10-29,31.43,0.0599291962770867,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,0.14,-1.44,1.59,0.29
-DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,-2.55,-1.19,-1.36,-5.11
-EBAY,2026-10-29,6.6,0.0306796296761397,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-1.28,-1.44,0.16,-2.56
-EQIX,2026-10-29,31.85,0.0326092691894372,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,1.34,-1.44,2.78,2.68
-F,2026-10-29,21.44,0.0381293367297266,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,1.65,-1.44,3.1,3.31
-FLEX,2026-10-28,11.5,0.1126936678301795,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-09,8,open,-14.35,-2.39,-11.96,-28.7
-FTV,2026-10-28,9.38,0.0369658754671451,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-09,8,open,3.33,-2.39,5.72,6.66
-GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,-6.32,-1.19,-5.13,-12.65
-GEHC,2026-10-28,11.28,0.0627922858821925,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-09,8,open,9.98,-2.39,12.37,19.95
-GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,-0.61,-1.19,0.58,-1.22
-HII,2026-10-29,23.84,0.1361336279669212,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-4.29,-1.44,-2.85,-8.57
-HWM,2026-10-29,6.55,0.0588942675843582,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,7.11,-1.44,8.55,14.21
-KIM,2026-10-29,39.27,0.0474094893829066,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,4.71,-1.44,6.15,9.42
-LHX,2026-10-29,11.37,0.0721977936135209,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-3.75,-1.44,-2.31,-7.49
-LLY,2026-10-29,17.88,0.0701085550682418,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-1.48,-1.44,-0.04,-2.96
-LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,2.11,-1.19,3.3,4.22
-MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,1.57,-1.19,2.76,3.14
-MRK,2026-10-29,19.3,0.0421366873869997,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-0.83,-1.44,0.61,-1.66
-NCLH,2026-10-29,19.06,0.1383153618363539,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,2.6,-1.44,4.04,5.21
-PNR,2026-10-27,9.88,0.1224282094180213,2026-11-01T22:28:26,False,A,20,,2026-10-28,2026-11-09,9,open,11.57,-2.73,14.3,23.15
-PPG,2026-10-28,6.04,0.04063305205936,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-09,8,open,5.0,-2.39,7.4,10.01
-PWR,2026-10-29,20.49,0.0504343959619515,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-3.02,-1.44,-1.58,-6.03
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,-1.08,-1.19,0.11,-2.17
-TXT,2026-10-29,21.83,0.1205204331970075,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-2.38,-1.44,-0.93,-4.75
-VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,4.4,-1.19,5.59,8.8
-VRT,2026-10-28,21.18,0.1614015637607946,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-09,8,open,-16.05,-2.39,-13.66,-32.11
-WEC,2026-10-29,20.5,0.0411952662749208,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,1.08,-1.44,2.52,2.15
-WST,2026-10-29,21.12,0.0361009620337997,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-09,7,open,-1.72,-1.44,-0.28,-3.45
-WY,2026-10-30,128.31,0.0481088070520767,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-09,6,open,2.42,-1.19,3.61,4.84
-CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,4.79,-3.48,8.27,9.59
-CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,-8.85,-3.48,-5.37,-17.71
-D,2026-10-30,6.0,0.0407634379645813,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,2.52,-3.48,6.0,5.04
-DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,-4.56,-3.48,-1.07,-9.11
-GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,-4.08,-3.48,-0.6,-8.15
-GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,-2.04,-3.48,1.44,-4.09
-LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,1.01,-3.48,4.49,2.02
-MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,0.93,-3.48,4.41,1.85
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,-2.77,-3.48,0.71,-5.53
-VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,3.54,-3.48,7.02,7.08
-WY,2026-10-30,128.31,0.0481088070520767,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5,closed,1.69,-3.48,5.17,3.39
-CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,4.65,-1.19,5.84,9.29
-CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,-9.64,-1.19,-8.45,-19.28
-D,2026-10-30,6.0,0.0407634379645813,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,1.98,-1.19,3.17,3.96
-DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,-2.55,-1.19,-1.36,-5.11
-GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,-6.32,-1.19,-5.13,-12.65
-GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,-0.61,-1.19,0.58,-1.22
-LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,2.11,-1.19,3.3,4.22
-MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,1.57,-1.19,2.76,3.14
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,-1.08,-1.19,0.11,-2.17
-VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,4.4,-1.19,5.59,8.8
-WY,2026-10-30,128.31,0.0481088070520767,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-09,6,open,2.42,-1.19,3.61,4.84
-MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,D,20,,2026-11-02,2026-11-09,6,open,1.57,-1.19,2.76,3.14
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,D,20,,2026-11-02,2026-11-09,6,open,-1.08,-1.19,0.11,-2.17
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,E,20,,2026-11-02,2026-11-09,6,open,-1.08,-1.19,0.11,-2.17
-CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,4.65,-1.19,5.84,9.29
-CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,-9.64,-1.19,-8.45,-19.28
-D,2026-10-30,6.0,0.0407634379645813,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,1.98,-1.19,3.17,3.96
-DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,-2.55,-1.19,-1.36,-5.11
-GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,-6.32,-1.19,-5.13,-12.65
-GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,-0.61,-1.19,0.58,-1.22
-LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,2.11,-1.19,3.3,4.22
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,-1.08,-1.19,0.11,-2.17
-VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,4.4,-1.19,5.59,8.8
-WY,2026-10-30,128.31,0.0481088070520767,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-09,6,open,2.42,-1.19,3.61,4.84
-CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-09,6,open,-9.64,-1.19,-8.45,-19.28
-GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-09,6,open,-0.61,-1.19,0.58,-1.22
-MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-09,6,open,1.57,-1.19,2.76,3.14
-REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-09,6,open,-1.08,-1.19,0.11,-2.17
-VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-09,6,open,4.4,-1.19,5.59,8.8
-COIN,2026-10-30,2975.98,-0.0884419749807705,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,-3.34,-1.19,-2.14,-6.67
-ILMN,2026-10-30,6.08,-0.1686806416485596,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,-6.75,-1.19,-5.56,-13.51
-INTC,2026-10-30,30.29,-0.268031767676556,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,-9.52,-1.19,-8.33,-19.04
-RDDT,2026-10-30,5.6,-0.2744777566530213,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,9.0,-1.19,10.19,18.01
-RMD,2026-10-30,8.86,-0.072806098218938,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,1.63,-1.19,2.82,3.27
-SNDK,2026-10-30,6.69,-0.1169726827947328,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,-23.74,-1.19,-22.55,-47.49
-TWLO,2026-10-30,12.37,-0.1346892974508118,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-09,6,open,1.15,-1.19,2.34,2.3
-ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-09,1,open,-1.86,1.15,-3.0,-3.71
-AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.75,2.13,-1.38,1.5
-AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-09,1,open,1.59,1.15,0.44,3.18
-ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-2.36,2.13,-4.49,-4.72
-ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,10.95,-1.97,12.92,21.89
-APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,14.88,2.13,12.75,29.77
-BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-09,1,open,2.77,1.15,1.63,5.55
-CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.98,2.13,0.85,5.96
-CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-3.92,-1.97,-1.95,-7.84
-CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.71,0.85
-CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,10.73,-1.65,12.38,21.45
-COP,2026-11-05,7.31,0.033284132120535,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-0.79,2.13,-2.92,-1.58
-DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-0.36,-1.65,1.29,-0.73
-DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.4,2.13,-1.73,0.8
-ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,2.27,-1.65,3.92,4.55
-EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.63,2.13,-0.5,3.27
-EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,5.47,2.13,3.34,10.94
-GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-2.6,-1.97,-0.63,-5.2
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,6.4,-0.31,6.71,12.81
-JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-5.41,-1.97,-3.44,-10.81
-MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,-0.36,-0.31,-0.05,-0.71
-MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.14,-1.97,1.83,-0.29
-MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.7,0.86
-MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-09,1,open,3.57,1.15,2.42,7.13
-MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.53,2.13,0.39,5.05
-PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-10.77,-1.97,-8.8,-21.54
-PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-4.95,-1.97,-2.98,-9.9
-RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-4.46,-1.65,-2.81,-8.91
-SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.62,2.13,-0.51,3.23
-SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-09,1,open,-0.92,1.15,-2.06,-1.83
-STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.58
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.59
-VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,8.75,2.13,6.62,17.49
-XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.01,-1.97,1.98,0.01
-ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-09,1,open,-1.86,1.15,-3.0,-3.71
-AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.75,2.13,-1.38,1.5
-AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-09,1,open,1.59,1.15,0.44,3.18
-ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-2.36,2.13,-4.49,-4.72
-ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,10.95,-1.97,12.92,21.89
-APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,14.88,2.13,12.75,29.77
-BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-09,1,open,2.77,1.15,1.63,5.55
-CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.98,2.13,0.85,5.96
-CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-3.92,-1.97,-1.95,-7.84
-CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.71,0.85
-CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,10.73,-1.65,12.38,21.45
-COP,2026-11-05,7.31,0.033284132120535,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-0.79,2.13,-2.92,-1.58
-DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-0.36,-1.65,1.29,-0.73
-DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.4,2.13,-1.73,0.8
-ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,2.27,-1.65,3.92,4.55
-EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.63,2.13,-0.5,3.27
-EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,5.47,2.13,3.34,10.94
-GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-2.6,-1.97,-0.63,-5.2
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,closed,6.4,-0.31,6.71,12.81
-JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-5.41,-1.97,-3.44,-10.81
-MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,closed,-0.36,-0.31,-0.05,-0.71
-MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.14,-1.97,1.83,-0.29
-MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.7,0.86
-MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-09,1,open,3.57,1.15,2.42,7.13
-MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.53,2.13,0.39,5.05
-PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-10.77,-1.97,-8.8,-21.54
-PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-4.95,-1.97,-2.98,-9.9
-RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-4.46,-1.65,-2.81,-8.91
-SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.62,2.13,-0.51,3.23
-SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-09,1,open,-0.92,1.15,-2.06,-1.83
-STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.58
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.59
-VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,8.75,2.13,6.62,17.49
-XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.01,-1.97,1.98,0.01
-ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-09,1,open,-1.86,1.15,-3.0,-3.71
-AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.75,2.13,-1.38,1.5
-AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-09,1,open,1.59,1.15,0.44,3.18
-ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-2.36,2.13,-4.49,-4.72
-ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,10.95,-1.97,12.92,21.89
-APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,14.88,2.13,12.75,29.77
-BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-09,1,open,2.77,1.15,1.63,5.55
-CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.98,2.13,0.85,5.96
-CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-3.92,-1.97,-1.95,-7.84
-CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.71,0.85
-CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,10.73,-1.65,12.38,21.45
-COP,2026-11-05,7.31,0.033284132120535,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-0.79,2.13,-2.92,-1.58
-DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-0.36,-1.65,1.29,-0.73
-DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.4,2.13,-1.73,0.8
-ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,2.27,-1.65,3.92,4.55
-EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.63,2.13,-0.5,3.27
-EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,5.47,2.13,3.34,10.94
-GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-2.6,-1.97,-0.63,-5.2
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,6.4,-0.31,6.71,12.81
-JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-5.41,-1.97,-3.44,-10.81
-MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,-0.36,-0.31,-0.05,-0.71
-MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.14,-1.97,1.83,-0.29
-MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.7,0.86
-MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-09,1,open,3.57,1.15,2.42,7.13
-MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.53,2.13,0.39,5.05
-PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-10.77,-1.97,-8.8,-21.54
-PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-4.95,-1.97,-2.98,-9.9
-RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-4.46,-1.65,-2.81,-8.91
-SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.62,2.13,-0.51,3.23
-SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-09,1,open,-0.92,1.15,-2.06,-1.83
-STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.58
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.59
-VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,8.75,2.13,6.62,17.49
-XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.01,-1.97,1.98,0.01
-ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,D,20,,2026-11-09,2026-11-09,1,open,-1.86,1.15,-3.0,-3.71
-AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.75,2.13,-1.38,1.5
-CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.98,2.13,0.85,5.96
-DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-0.36,-1.65,1.29,-0.73
-EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.63,2.13,-0.5,3.27
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,D,20,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.59
-XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.01,-1.97,1.98,0.01
-ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,10.95,-1.97,12.92,21.89
-APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,14.88,2.13,12.75,29.77
-EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.63,2.13,-0.5,3.27
-IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,6.4,-0.31,6.71,12.81
-MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.53,2.13,0.39,5.05
-SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,E,20,,2026-11-09,2026-11-09,1,open,-0.92,1.15,-2.06,-1.83
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.01,-1.97,1.98,0.01
-AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.75,2.13,-1.38,1.5
-APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,14.88,2.13,12.75,29.77
-BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-09,1,open,2.77,1.15,1.63,5.55
-CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-3.92,-1.97,-1.95,-7.84
-CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,10.73,-1.65,12.38,21.45
-DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-0.36,-1.65,1.29,-0.73
-ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,2.27,-1.65,3.92,4.55
-EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,5.47,2.13,3.34,10.94
-GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-2.6,-1.97,-0.63,-5.2
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,6.4,-0.31,6.71,12.81
-JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-5.41,-1.97,-3.44,-10.81
-MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.14,-1.97,1.83,-0.29
-MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-09,1,open,3.57,1.15,2.42,7.13
-MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.53,2.13,0.39,5.05
-PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-10.77,-1.97,-8.8,-21.54
-PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-4.95,-1.97,-2.98,-9.9
-RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-4.46,-1.65,-2.81,-8.91
-SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-09,1,open,-0.92,1.15,-2.06,-1.83
-STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,3.29,2.13,1.16,6.58
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.01,-1.97,1.98,0.01
-AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.75,2.13,-1.38,1.5
-ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-2.36,2.13,-4.49,-4.72
-CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.98,2.13,0.85,5.96
-CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.71,0.85
-DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.4,2.13,-1.73,0.8
-EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.63,2.13,-0.5,3.27
-EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,5.47,2.13,3.34,10.94
-GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-2.6,-1.97,-0.63,-5.2
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,G,20,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,-0.36,-0.31,-0.05,-0.71
-MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.43,2.13,-1.7,0.86
-MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,2.53,2.13,0.39,5.05
-PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-4.95,-1.97,-2.98,-9.9
-SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,1.62,2.13,-0.51,3.23
-SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-0.28,-1.97,1.69,-0.57
-VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,8.75,2.13,6.62,17.49
-ADM,2026-11-03,10.42,-0.0712244122276736,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-2.69,-1.65,-1.04,-5.38
-APA,2026-11-04,21.87,-0.0851798754815424,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-1.98,-1.97,-0.01,-3.95
-APTV,2026-11-03,7.39,-0.0683318772154421,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-4.71,-1.65,-3.06,-9.41
-BALL,2026-11-03,2.9,-0.0743887240676761,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,5.8,-1.65,7.45,11.6
-COHR,2026-11-05,5.99,-0.085745769000278,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,18.5,2.13,16.37,37.0
-CRL,2026-11-04,3.55,-0.0892148271412284,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,6.73,-1.97,8.7,13.45
-CVS,2026-11-04,26.6,-0.1417774247727463,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,4.11,-1.97,6.08,8.22
-DDOG,2026-11-04,26.38,-0.1607221796491601,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-2.15,-1.97,-0.18,-4.29
-EXPE,2026-11-05,5.66,-0.0933021719073847,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,-5.09,2.13,-7.22,-10.17
-FIS,2026-11-04,0.6,-0.2532449542911417,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-5.52,-1.97,-3.55,-11.03
-HSIC,2026-11-03,0.91,-0.0505557267140269,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,4.8,-1.65,6.45,9.6
-IFF,2026-11-04,1.8,-0.0654435986446649,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,-4.47,-1.97,-2.5,-8.93
-IRM,2026-11-05,4.64,-0.0668133807528609,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,4.25,2.13,2.11,8.49
-IT,2026-11-03,26.4,-0.1349307292680763,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-7.35,-1.65,-5.7,-14.7
-KDP,2026-11-03,6.39,-0.0594826076252337,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,2.86,-1.65,4.51,5.71
-LDOS,2026-11-03,19.37,-0.0684744357157086,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,2.48,-1.65,4.13,4.96
-LITE,2026-11-02,8.19,-0.1811263533001068,2026-11-02 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5,open,-12.76,-0.31,-12.45,-25.52
-MCHP,2026-11-06,3.4,-0.1033554227286785,2026-11-06 18:27,True,H,20,,2026-11-09,2026-11-09,1,open,4.62,1.15,3.47,9.24
-NWS,2026-11-05,7.74,-0.0882832135532674,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.94,2.13,-1.19,1.89
-NWSA,2026-11-05,7.74,-0.089416099524703,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.69,2.13,-1.44,1.38
-QCOM,2026-11-05,0.48,-0.0508329082726866,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,6.02,2.13,3.89,12.04
-ROK,2026-11-05,5.05,-0.0974555482555131,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-09,2,open,0.22,2.13,-1.91,0.45
-SMCI,2026-11-04,46.61,-0.0735420609294715,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-09,3,open,0.69,-1.97,2.66,1.38
-ZBRA,2026-11-03,0.89,-0.0905778236875276,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-09,4,open,-2.12,-1.65,-0.47,-4.23
-AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-09,1,open,1.59,1.15,0.44,3.18
-HUM,2026-11-06,30.33,0.0501797055414594,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-09,1,open,-3.8,1.15,-4.95,-7.6
-MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-09,1,open,3.57,1.15,2.42,7.13
-SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-09,1,open,-0.92,1.15,-2.06,-1.83
+APH,2026-10-28,9.46,0.0317186338313362,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-10,9.0,open,-2.19,-2.75,0.56,-4.38
+CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,8.23,-1.55,9.78,16.45
+CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,-9.45,-1.55,-7.9,-18.91
+D,2026-10-30,6.0,0.0407634379645813,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,2.17,-1.55,3.73,4.35
+DASH,2026-10-29,31.43,0.0599291962770867,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-1.36,-1.81,0.44,-2.72
+DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,-3.94,-1.55,-2.39,-7.88
+EBAY,2026-10-29,6.6,0.0306796296761397,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,0.81,-1.81,2.61,1.61
+EQIX,2026-10-29,31.85,0.0326092691894372,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,0.9,-1.81,2.71,1.81
+F,2026-10-29,21.44,0.0381293367297266,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-0.3,-1.81,1.51,-0.6
+FLEX,2026-10-28,11.5,0.1126936678301795,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-10,9.0,open,-16.64,-2.75,-13.88,-33.28
+FTV,2026-10-28,9.38,0.0369658754671451,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-10,9.0,open,4.3,-2.75,7.06,8.6
+GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,-5.13,-1.55,-3.57,-10.26
+GEHC,2026-10-28,11.28,0.0627922858821925,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-10,9.0,open,9.48,-2.75,12.23,18.95
+GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,0.3,-1.55,1.86,0.6
+HII,2026-10-29,23.84,0.1361336279669212,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-1.38,-1.81,0.42,-2.76
+HWM,2026-10-29,6.55,0.0588942675843582,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,8.5,-1.81,10.31,17.0
+KIM,2026-10-29,39.27,0.0474094893829066,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,4.3,-1.81,6.11,8.61
+LHX,2026-10-29,11.37,0.0721977936135209,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-2.13,-1.81,-0.33,-4.26
+LLY,2026-10-29,17.88,0.0701085550682418,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-0.06,-1.81,1.75,-0.12
+LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,1.81,-1.55,3.36,3.61
+MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,1.72,-1.55,3.28,3.45
+MRK,2026-10-29,19.3,0.0421366873869997,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-1.3,-1.81,0.5,-2.61
+NCLH,2026-10-29,19.06,0.1383153618363539,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,3.05,-1.81,4.86,6.1
+PNR,2026-10-27,9.88,0.1224282094180213,2026-11-01T22:28:26,False,A,20,,2026-10-28,2026-11-10,10.0,open,10.66,-3.09,13.75,21.33
+PPG,2026-10-28,6.04,0.04063305205936,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-10,9.0,open,4.25,-2.75,7.01,8.51
+PWR,2026-10-29,20.49,0.0504343959619515,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-4.39,-1.81,-2.58,-8.78
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,-1.5,-1.55,0.05,-3.01
+TXT,2026-10-29,21.83,0.1205204331970075,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-0.76,-1.81,1.05,-1.52
+VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,4.53,-1.55,6.09,9.07
+VRT,2026-10-28,21.18,0.1614015637607946,2026-11-01T22:28:26,False,A,20,,2026-10-29,2026-11-10,9.0,open,-18.68,-2.75,-15.93,-37.36
+WEC,2026-10-29,20.5,0.0411952662749208,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,0.95,-1.81,2.76,1.91
+WST,2026-10-29,21.12,0.0361009620337997,2026-11-01T22:28:26,False,A,20,,2026-10-30,2026-11-10,8.0,open,-1.85,-1.81,-0.05,-3.71
+WY,2026-10-30,128.31,0.0481088070520767,2026-11-01T22:28:26,True,A,20,,2026-11-02,2026-11-10,7.0,open,-0.01,-1.55,1.55,-0.02
+CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,4.79,-3.48,8.27,9.59
+CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,-8.85,-3.48,-5.37,-17.71
+D,2026-10-30,6.0,0.0407634379645813,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,2.52,-3.48,6.0,5.04
+DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,-4.56,-3.48,-1.07,-9.11
+GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,-4.08,-3.48,-0.6,-8.15
+GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,-2.04,-3.48,1.44,-4.09
+LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,1.01,-3.48,4.49,2.02
+MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,0.93,-3.48,4.41,1.85
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,-2.77,-3.48,0.71,-5.53
+VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,3.54,-3.48,7.02,7.08
+WY,2026-10-30,128.31,0.0481088070520767,2026-11-01 18:06,True,B,5,,2026-11-02,2026-11-06,5.0,closed,1.69,-3.48,5.17,3.39
+CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,8.23,-1.55,9.78,16.45
+CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,-9.45,-1.55,-7.9,-18.91
+D,2026-10-30,6.0,0.0407634379645813,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,2.17,-1.55,3.73,4.35
+DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,-3.94,-1.55,-2.39,-7.88
+GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,-5.13,-1.55,-3.57,-10.26
+GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,0.3,-1.55,1.86,0.6
+LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,1.81,-1.55,3.36,3.61
+MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,1.72,-1.55,3.28,3.45
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,-1.5,-1.55,0.05,-3.01
+VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,4.53,-1.55,6.09,9.07
+WY,2026-10-30,128.31,0.0481088070520767,2026-11-01 18:06,True,C,60,,2026-11-02,2026-11-10,7.0,open,-0.01,-1.55,1.55,-0.02
+MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,D,20,,2026-11-02,2026-11-10,7.0,open,1.72,-1.55,3.28,3.45
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,D,20,,2026-11-02,2026-11-10,7.0,open,-1.5,-1.55,0.05,-3.01
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,E,20,,2026-11-02,2026-11-10,7.0,open,-1.5,-1.55,0.05,-3.01
+CBOE,2026-10-30,5.72,0.0854458230156229,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,8.23,-1.55,9.78,16.45
+CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,-9.45,-1.55,-7.9,-18.91
+D,2026-10-30,6.0,0.0407634379645813,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,2.17,-1.55,3.73,4.35
+DXCM,2026-10-30,8.31,0.0472548835307735,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,-3.94,-1.55,-2.39,-7.88
+GDDY,2026-10-30,9.63,0.1249157302920465,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,-5.13,-1.55,-3.57,-10.26
+GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,0.3,-1.55,1.86,0.6
+LNT,2026-10-30,16.22,0.0391845567866651,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,1.81,-1.55,3.36,3.61
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,-1.5,-1.55,0.05,-3.01
+VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,4.53,-1.55,6.09,9.07
+WY,2026-10-30,128.31,0.0481088070520767,2026-11-01 18:06,True,F,20,,2026-11-02,2026-11-10,7.0,open,-0.01,-1.55,1.55,-0.02
+CVX,2026-10-30,8.47,0.0352698576338763,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-10,7.0,open,-9.45,-1.55,-7.9,-18.91
+GILD,2026-10-30,16.23,0.0483430862295555,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-10,7.0,open,0.3,-1.55,1.86,0.6
+MDLZ,2026-10-30,10.18,0.0562706002997146,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-10,7.0,open,1.72,-1.55,3.28,3.45
+REGN,2026-10-30,23.54,0.1510021121112053,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-10,7.0,open,-1.5,-1.55,0.05,-3.01
+VLTO,2026-10-30,8.26,0.0853823282426342,2026-11-01 18:06,True,G,20,,2026-11-02,2026-11-10,7.0,open,4.53,-1.55,6.09,9.07
+COIN,2026-10-30,2975.98,-0.0884419749807705,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,-6.16,-1.55,-4.61,-12.33
+ILMN,2026-10-30,6.08,-0.1686806416485596,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,-9.24,-1.55,-7.69,-18.48
+INTC,2026-10-30,30.29,-0.268031767676556,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,-11.42,-1.55,-9.86,-22.83
+RDDT,2026-10-30,5.6,-0.2744777566530213,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,6.71,-1.55,8.26,13.41
+RMD,2026-10-30,8.86,-0.072806098218938,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,0.93,-1.55,2.48,1.86
+SNDK,2026-10-30,6.69,-0.1169726827947328,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,-26.03,-1.55,-24.48,-52.07
+TWLO,2026-10-30,12.37,-0.1346892974508118,2026-11-01 18:06,True,H,20,,2026-11-02,2026-11-10,7.0,open,4.86,-1.55,6.42,9.73
+ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-10,2.0,open,-3.32,0.77,-4.09,-6.64
+AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.89,1.75,0.14,3.79
+AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-10,2.0,open,6.03,0.77,5.25,12.05
+ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.47,1.75,-1.29,0.94
+ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,10.26,-2.33,12.59,20.52
+APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.81,1.75,9.06,21.63
+BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-10,2.0,open,3.98,0.77,3.21,7.96
+CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.92,1.75,2.17,7.84
+CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.14,-2.33,1.19,-2.27
+CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.99,1.75,1.24,5.98
+CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,11.85,-2.01,13.86,23.7
+COP,2026-11-05,7.31,0.033284132120535,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.04,1.75,-1.71,0.08
+DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,0.76,-2.01,2.77,1.51
+DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.06,1.75,-0.69,2.12
+ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,5.29,-2.01,7.3,10.57
+EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.16,1.75,0.4,4.31
+EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,4.76,1.75,3.01,9.52
+GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-0.72,-2.33,1.61,-1.45
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,4.89,-0.67,5.56,9.78
+JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.19,-2.33,-0.86,-6.39
+MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,2.3,-0.67,2.98,4.6
+MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,0.12,-2.33,2.45,0.23
+MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.64,1.75,0.89,5.28
+MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-10,2.0,open,-3.02,0.77,-3.8,-6.05
+MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.41,1.75,0.66,4.82
+PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-11.82,-2.33,-9.48,-23.63
+PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.97,-2.33,-1.64,-7.94
+RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-5.42,-2.01,-3.41,-10.85
+SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.7,1.75,-0.05,3.41
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,A,20,,2026-11-09,2026-11-10,2.0,open,-1.3,0.77,-2.07,-2.6
+STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.36,1.75,1.61,6.73
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.95,1.75,1.2,5.9
+VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.66,1.75,8.91,21.33
+XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,A,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.37,-2.33,-1.04,-6.74
+ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-10,2.0,open,-3.32,0.77,-4.09,-6.64
+AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.89,1.75,0.14,3.79
+AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-10,2.0,open,6.03,0.77,5.25,12.05
+ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.47,1.75,-1.29,0.94
+ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,10.26,-2.33,12.59,20.52
+APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.81,1.75,9.06,21.63
+BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-10,2.0,open,3.98,0.77,3.21,7.96
+CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.92,1.75,2.17,7.84
+CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.14,-2.33,1.19,-2.27
+CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.99,1.75,1.24,5.98
+CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,closed,11.85,-2.01,13.86,23.7
+COP,2026-11-05,7.31,0.033284132120535,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.04,1.75,-1.71,0.08
+DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,closed,0.76,-2.01,2.77,1.51
+DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.06,1.75,-0.69,2.12
+ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,closed,5.29,-2.01,7.3,10.57
+EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.16,1.75,0.4,4.31
+EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,4.76,1.75,3.01,9.52
+GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-0.72,-2.33,1.61,-1.45
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5.0,closed,6.4,-0.31,6.71,12.81
+JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.19,-2.33,-0.86,-6.39
+MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-09,5.0,closed,-0.36,-0.31,-0.05,-0.71
+MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,0.12,-2.33,2.45,0.23
+MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.64,1.75,0.89,5.28
+MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-10,2.0,open,-3.02,0.77,-3.8,-6.05
+MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.41,1.75,0.66,4.82
+PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-11.82,-2.33,-9.48,-23.63
+PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.97,-2.33,-1.64,-7.94
+RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,closed,-5.42,-2.01,-3.41,-10.85
+SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.7,1.75,-0.05,3.41
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,B,5,,2026-11-09,2026-11-10,2.0,open,-1.3,0.77,-2.07,-2.6
+STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.36,1.75,1.61,6.73
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.95,1.75,1.2,5.9
+VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.66,1.75,8.91,21.33
+XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,B,5,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.37,-2.33,-1.04,-6.74
+ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-10,2.0,open,-3.32,0.77,-4.09,-6.64
+AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.89,1.75,0.14,3.79
+AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-10,2.0,open,6.03,0.77,5.25,12.05
+ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.47,1.75,-1.29,0.94
+ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,10.26,-2.33,12.59,20.52
+APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.81,1.75,9.06,21.63
+BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-10,2.0,open,3.98,0.77,3.21,7.96
+CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.92,1.75,2.17,7.84
+CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.14,-2.33,1.19,-2.27
+CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.99,1.75,1.24,5.98
+CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,11.85,-2.01,13.86,23.7
+COP,2026-11-05,7.31,0.033284132120535,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.04,1.75,-1.71,0.08
+DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,0.76,-2.01,2.77,1.51
+DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.06,1.75,-0.69,2.12
+ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,5.29,-2.01,7.3,10.57
+EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.16,1.75,0.4,4.31
+EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,4.76,1.75,3.01,9.52
+GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-0.72,-2.33,1.61,-1.45
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,4.89,-0.67,5.56,9.78
+JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.19,-2.33,-0.86,-6.39
+MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,2.3,-0.67,2.98,4.6
+MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,0.12,-2.33,2.45,0.23
+MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.64,1.75,0.89,5.28
+MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-10,2.0,open,-3.02,0.77,-3.8,-6.05
+MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.41,1.75,0.66,4.82
+PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-11.82,-2.33,-9.48,-23.63
+PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.97,-2.33,-1.64,-7.94
+RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-5.42,-2.01,-3.41,-10.85
+SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.7,1.75,-0.05,3.41
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,C,60,,2026-11-09,2026-11-10,2.0,open,-1.3,0.77,-2.07,-2.6
+STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.36,1.75,1.61,6.73
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.95,1.75,1.2,5.9
+VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.66,1.75,8.91,21.33
+XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,C,60,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.37,-2.33,-1.04,-6.74
+ABNB,2026-11-06,10.99,0.1136101449087838,2026-11-06 18:27,True,D,20,,2026-11-09,2026-11-10,2.0,open,-3.32,0.77,-4.09,-6.64
+AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.89,1.75,0.14,3.79
+CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.92,1.75,2.17,7.84
+DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,0.76,-2.01,2.77,1.51
+EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.16,1.75,0.4,4.31
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,D,20,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+TPR,2026-11-05,16.42,0.1147964124252144,2026-11-05 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.95,1.75,1.2,5.9
+XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,D,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.37,-2.33,-1.04,-6.74
+ANET,2026-11-04,11.22,0.0339208583258754,2026-11-04 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,10.26,-2.33,12.59,20.52
+APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.81,1.75,9.06,21.63
+EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.16,1.75,0.4,4.31
+IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,4.89,-0.67,5.56,9.78
+MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.41,1.75,0.66,4.82
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,E,20,,2026-11-09,2026-11-10,2.0,open,-1.3,0.77,-2.07,-2.6
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,E,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.37,-2.33,-1.04,-6.74
+AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.89,1.75,0.14,3.79
+APP,2026-11-05,6.65,0.3544873603517248,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.81,1.75,9.06,21.63
+BEN,2026-11-06,21.92,0.0440662117570271,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-10,2.0,open,3.98,0.77,3.21,7.96
+CDW,2026-11-04,9.4,0.1102100556076675,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.14,-2.33,1.19,-2.27
+CLX,2026-11-03,45.18,0.0403899277242436,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,11.85,-2.01,13.86,23.7
+DD,2026-11-03,11.46,0.0830664330620143,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,0.76,-2.01,2.77,1.51
+ECHO,2026-11-03,3178.08,0.0347768683317564,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,5.29,-2.01,7.3,10.57
+EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,4.76,1.75,3.01,9.52
+GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-0.72,-2.33,1.61,-1.45
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+IDXX,2026-11-02,7.98,0.2232730794609946,2026-11-02 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,4.89,-0.67,5.56,9.78
+JKHY,2026-11-04,6.08,0.0917343229112142,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.19,-2.33,-0.86,-6.39
+MCD,2026-11-04,5.62,0.0487956690621318,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,0.12,-2.33,2.45,0.23
+MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-10,2.0,open,-3.02,0.77,-3.8,-6.05
+MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.41,1.75,0.66,4.82
+PODD,2026-11-04,25.35,0.0490901076924075,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-11.82,-2.33,-9.48,-23.63
+PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.97,-2.33,-1.64,-7.94
+RVTY,2026-11-03,5.68,0.075372420945442,2026-11-03 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-5.42,-2.01,-3.41,-10.85
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-06 18:27,True,F,20,,2026-11-09,2026-11-10,2.0,open,-1.3,0.77,-2.07,-2.6
+STE,2026-11-05,9.83,0.0691411319706477,2026-11-05 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.36,1.75,1.61,6.73
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+XYZ,2026-11-04,10.19,0.1365087183379583,2026-11-04 17:43,True,F,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.37,-2.33,-1.04,-6.74
+AFL,2026-11-05,35.24,0.0515937073392952,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.89,1.75,0.14,3.79
+ALL,2026-11-05,40.24,0.035394822327543,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.47,1.75,-1.29,0.94
+CAH,2026-11-05,10.91,0.0665787342561784,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,3.92,1.75,2.17,7.84
+CI,2026-11-05,6.3,0.0312238298466218,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.99,1.75,1.24,5.98
+DUK,2026-11-05,6.86,0.0478729521640938,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.06,1.75,-0.69,2.12
+EVRG,2026-11-05,11.18,0.0580113058595889,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.16,1.75,0.4,4.31
+EW,2026-11-05,8.62,0.0586836517543437,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,4.76,1.75,3.01,9.52
+GWW,2026-11-04,7.53,0.0488696655842308,2026-11-04 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-0.72,-2.33,1.61,-1.45
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-06 18:27,True,G,20,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+MAR,2026-11-02,5.97,0.0473646343225605,2026-11-02 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,2.3,-0.67,2.98,4.6
+MCK,2026-11-05,8.62,0.0464855848173245,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.64,1.75,0.89,5.28
+MSI,2026-11-05,5.75,0.0843742944596034,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.41,1.75,0.66,4.82
+PRU,2026-11-04,13.64,0.0493018129450744,2026-11-04 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-3.97,-2.33,-1.64,-7.94
+SO,2026-11-05,13.44,0.0464542277788401,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,1.7,1.75,-0.05,3.41
+SWK,2026-11-04,48.29,0.1145281156571824,2026-11-04 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-1.69,-2.33,0.64,-3.38
+VTRS,2026-11-05,11.28,0.0310844691712758,2026-11-05 17:43,True,G,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,10.66,1.75,8.91,21.33
+ADM,2026-11-03,10.42,-0.0712244122276736,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-3.44,-2.01,-1.43,-6.89
+APA,2026-11-04,21.87,-0.0851798754815424,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-0.72,-2.33,1.61,-1.44
+APTV,2026-11-03,7.39,-0.0683318772154421,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-5.52,-2.01,-3.51,-11.04
+BALL,2026-11-03,2.9,-0.0743887240676761,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,5.77,-2.01,7.78,11.53
+COHR,2026-11-05,5.99,-0.085745769000278,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,12.95,1.75,11.19,25.89
+CRL,2026-11-04,3.55,-0.0892148271412284,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,4.44,-2.33,6.77,8.89
+CVS,2026-11-04,26.6,-0.1417774247727463,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,8.71,-2.33,11.05,17.43
+DDOG,2026-11-04,26.38,-0.1607221796491601,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-2.81,-2.33,-0.48,-5.63
+EXPE,2026-11-05,5.66,-0.0933021719073847,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,-7.07,1.75,-8.82,-14.13
+FIS,2026-11-04,0.6,-0.2532449542911417,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-5.62,-2.33,-3.29,-11.24
+HSIC,2026-11-03,0.91,-0.0505557267140269,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,5.19,-2.01,7.21,10.38
+IFF,2026-11-04,1.8,-0.0654435986446649,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-5.9,-2.33,-3.56,-11.79
+IRM,2026-11-05,4.64,-0.0668133807528609,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,4.18,1.75,2.42,8.36
+IT,2026-11-03,26.4,-0.1349307292680763,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-8.37,-2.01,-6.36,-16.75
+KDP,2026-11-03,6.39,-0.0594826076252337,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,4.67,-2.01,6.68,9.34
+LDOS,2026-11-03,19.37,-0.0684744357157086,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,3.6,-2.01,5.61,7.2
+LITE,2026-11-02,8.19,-0.1811263533001068,2026-11-02 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-03,2026-11-10,6.0,open,-14.31,-0.67,-13.64,-28.63
+MCHP,2026-11-06,3.4,-0.1033554227286785,2026-11-06 18:27,True,H,20,,2026-11-09,2026-11-10,2.0,open,2.63,0.77,1.86,5.27
+NWS,2026-11-05,7.74,-0.0882832135532674,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.6,1.75,0.84,5.2
+NWSA,2026-11-05,7.74,-0.089416099524703,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,0.84,1.75,-0.91,1.68
+QCOM,2026-11-05,0.48,-0.0508329082726866,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,7.3,1.75,5.54,14.59
+ROK,2026-11-05,5.05,-0.0974555482555131,2026-11-05 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-06,2026-11-10,3.0,open,2.24,1.75,0.48,4.48
+SMCI,2026-11-04,46.61,-0.0735420609294715,2026-11-04 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-05,2026-11-10,4.0,open,-2.17,-2.33,0.16,-4.34
+ZBRA,2026-11-03,0.89,-0.0905778236875276,2026-11-03 17:43,True,H,20,reconstructed: signal made by the frozen rule on the evening run that failed to save,2026-11-04,2026-11-10,5.0,open,-3.72,-2.01,-1.7,-7.43
+AKAM,2026-11-06,5.85,0.0643219289752154,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-10,2.0,open,6.03,0.77,5.25,12.05
+HUM,2026-11-06,30.33,0.0501797055414594,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-10,2.0,open,-0.42,0.77,-1.19,-0.83
+MRNA,2026-11-06,130.29,0.0495968110453928,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-10,2.0,open,-3.02,0.77,-3.8,-6.05
+SOLV,2026-11-06,7.87,0.0335815139401547,2026-11-07 05:18,True,I,20,,2026-11-09,2026-11-10,2.0,open,-1.3,0.77,-2.07,-2.6
+CEG,2026-11-09,30.08,0.080916748588611,2026-11-10 17:46,False,A,20,,2026-11-10,2026-11-10,1.0,open,-1.22,-0.04,-1.19,-2.44
+LITE,2026-11-06,8.189999,0.0535563102539387,2026-11-10 17:46,False,A,20,,2026-11-09,2026-11-10,2.0,open,6.57,0.77,5.8,13.14
+NRG,2026-11-09,54.53,0.0795185328102254,2026-11-10 17:46,False,A,20,,2026-11-10,2026-11-10,1.0,open,2.04,-0.04,2.07,4.08
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,A,20,,,,,waiting for entry,,,,
+VST,2026-11-06,32.959998,0.1023768457556224,2026-11-10 17:46,False,A,20,,2026-11-09,2026-11-10,2.0,open,2.18,0.77,1.41,4.37
+CEG,2026-11-09,30.08,0.080916748588611,2026-11-10 17:46,False,B,5,,2026-11-10,2026-11-10,1.0,open,-1.22,-0.04,-1.19,-2.44
+LITE,2026-11-06,8.189999,0.0535563102539387,2026-11-10 17:46,False,B,5,,2026-11-09,2026-11-10,2.0,open,6.57,0.77,5.8,13.14
+NRG,2026-11-09,54.53,0.0795185328102254,2026-11-10 17:46,False,B,5,,2026-11-10,2026-11-10,1.0,open,2.04,-0.04,2.07,4.08
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,B,5,,,,,waiting for entry,,,,
+VST,2026-11-06,32.959998,0.1023768457556224,2026-11-10 17:46,False,B,5,,2026-11-09,2026-11-10,2.0,open,2.18,0.77,1.41,4.37
+CEG,2026-11-09,30.08,0.080916748588611,2026-11-10 17:46,False,C,60,,2026-11-10,2026-11-10,1.0,open,-1.22,-0.04,-1.19,-2.44
+LITE,2026-11-06,8.189999,0.0535563102539387,2026-11-10 17:46,False,C,60,,2026-11-09,2026-11-10,2.0,open,6.57,0.77,5.8,13.14
+NRG,2026-11-09,54.53,0.0795185328102254,2026-11-10 17:46,False,C,60,,2026-11-10,2026-11-10,1.0,open,2.04,-0.04,2.07,4.08
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,C,60,,,,,waiting for entry,,,,
+VST,2026-11-06,32.959998,0.1023768457556224,2026-11-10 17:46,False,C,60,,2026-11-09,2026-11-10,2.0,open,2.18,0.77,1.41,4.37
+CEG,2026-11-09,30.08,0.080916748588611,2026-11-10 17:46,False,D,20,,2026-11-10,2026-11-10,1.0,open,-1.22,-0.04,-1.19,-2.44
+NRG,2026-11-09,54.53,0.0795185328102254,2026-11-10 17:46,False,D,20,,2026-11-10,2026-11-10,1.0,open,2.04,-0.04,2.07,4.08
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,D,20,,,,,waiting for entry,,,,
+VST,2026-11-06,32.959998,0.1023768457556224,2026-11-10 17:46,False,D,20,,2026-11-09,2026-11-10,2.0,open,2.18,0.77,1.41,4.37
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,E,20,,,,,waiting for entry,,,,
+CEG,2026-11-09,30.08,0.080916748588611,2026-11-10 17:46,False,F,20,,2026-11-10,2026-11-10,1.0,open,-1.22,-0.04,-1.19,-2.44
+NRG,2026-11-09,54.53,0.0795185328102254,2026-11-10 17:46,False,F,20,,2026-11-10,2026-11-10,1.0,open,2.04,-0.04,2.07,4.08
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,F,20,,,,,waiting for entry,,,,
+VST,2026-11-06,32.959998,0.1023768457556224,2026-11-10 17:46,False,F,20,,2026-11-09,2026-11-10,2.0,open,2.18,0.77,1.41,4.37
+SKYD,2026-11-10,129.42000000000002,-0.0721818932335089,2026-11-10 17:46,True,H,20,,,,,waiting for entry,,,,
+CEG,2026-11-09,30.08,0.080916748588611,2026-11-10 17:46,False,I,20,,2026-11-10,2026-11-10,1.0,open,-1.22,-0.04,-1.19,-2.44
+LITE,2026-11-06,8.189999,0.0535563102539387,2026-11-10 17:46,False,I,20,,2026-11-09,2026-11-10,2.0,open,6.57,0.77,5.8,13.14
+TTWO,2026-11-10,66.38,0.0868045860883284,2026-11-10 17:46,True,I,20,,,,,waiting for entry,,,,
