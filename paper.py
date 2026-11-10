@@ -68,9 +68,21 @@ def update_earnings(days_back=6):
     print("refreshing earnings for", len(syms), "companies")
     fresh = []
     start, budget, skipped = time.time(), 420, []
+    primary_ok = _primary_works(syms[0]) if syms else False
+    if not primary_ok:
+        print("earnings page blocked; using the earnings-history feed as a backup")
     for s in syms:
         if time.time() - start > budget:
             skipped.append(s); continue
+        if not primary_ok:
+            try:
+                rows = _from_history(s, due[due.sym == s])
+                if rows is not None: fresh.append(rows)
+                else: skipped.append(s)
+            except Exception as ex:
+                print(s, "backup failed", str(ex)[:80]); skipped.append(s)
+            time.sleep(0.5)
+            continue
         for attempt in range(2):
             try:
                 e = yf.Ticker(s).get_earnings_dates(limit=12)
@@ -89,6 +101,32 @@ def update_earnings(days_back=6):
         all_["_k"] = pd.to_datetime(all_["Earnings Date"], utc=True).dt.normalize()
         all_ = all_.drop_duplicates(["sym", "_k"]).drop(columns="_k")
         all_.reset_index(drop=True).to_pickle(D / "earnings.pkl")
+
+
+def _primary_works(sym):
+    try:
+        yf.Ticker(sym).get_earnings_dates(limit=4); return True
+    except Exception as ex:
+        print("earnings page check failed:", str(ex)[:80]); return False
+
+
+def _from_history(sym, due_rows):
+    """Backup source: fill actual EPS, estimate and surprise for scheduled reports from Yahoo's
+    earnings-history feed (last 4 fiscal quarters). The report date and time come from the
+    schedule we already hold; a quarter is matched only if it ended 0-120 days before the report."""
+    eh = yf.Ticker(sym).earnings_history
+    if eh is None or len(eh) == 0: return None
+    eh = eh.copy(); eh.index = pd.to_datetime(eh.index)
+    out = []
+    for _, r in due_rows.iterrows():
+        rd = pd.to_datetime(r["Earnings Date"], utc=True).tz_convert(None)
+        q = eh[(eh.index <= rd) & (eh.index >= rd - pd.Timedelta(days=120))]
+        if len(q) == 0 or pd.isna(q.iloc[-1].epsActual): continue
+        row = r.copy(); x = q.iloc[-1]
+        row["EPS Estimate"], row["Reported EPS"] = x.epsEstimate, x.epsActual
+        row["Surprise(%)"] = x.surprisePercent * 100
+        out.append(row)
+    return pd.DataFrame(out) if out else None
 
 
 def is_forward(rdate, logged_at_et):
