@@ -1,11 +1,11 @@
-# Paper-trading report — 2026-11-11
+# Paper-trading report — 2026-11-12
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
 | | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | £500 plan: extra vs S&P | Open | Verdict |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | Beat >5% and up >3% vs S&P on the day; hold 20 days | 0 | | | | | | | | 48 | no-go |
-| B | Same as A; hold 5 days | 26 | 50% | +0.13% | -2.17% | +2.30% | 2.0 | £+7 | £+5.98 | 22 | no-go |
+| B | Same as A; hold 5 days | 41 | 68% | +1.31% | -0.37% | +1.68% | 2.1 | £+107 | £+6.90 | 7 | no-go |
 | C | Same as A; hold 60 days | 0 | | | | | | | | 48 | no-go |
 | D | Strong: beat >10% and up >5%; hold 20 days | 0 | | | | | | | | 12 | no-go |
 | E | A plus volume > 3x normal; hold 20 days | 0 | | | | | | | | 10 | no-go |
@@ -23,18 +23,11 @@ Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0
 - none
 
 ## SELL on the next trading day, any time before the US close (9pm UK) — paper
-- AFL (strategy B, bought 2026-11-06, now +2.3%)
-- ALL (strategy B, bought 2026-11-06, now +0.9%)
-- APP (strategy B, bought 2026-11-06, now +13.4%)
-- CAH (strategy B, bought 2026-11-06, now +4.2%)
-- CI (strategy B, bought 2026-11-06, now +2.4%)
-- COP (strategy B, bought 2026-11-06, now +1.7%)
-- DUK (strategy B, bought 2026-11-06, now +0.9%)
-- EVRG (strategy B, bought 2026-11-06, now +2.0%)
-- EW (strategy B, bought 2026-11-06, now +6.6%)
-- MCK (strategy B, bought 2026-11-06, now +2.4%)
-- MSI (strategy B, bought 2026-11-06, now +3.9%)
-- SO (strategy B, bought 2026-11-06, now +1.9%)
-- STE (strategy B, bought 2026-11-06, now +3.0%)
-- TPR (strategy B, bought 2026-11-06, now +1.2%)
-- VTRS (strategy B, bought 2026-11-06, now +11.8%)
+- ABNB (strategy B, bought 2026-11-09, now -6.3%)
+- AKAM (strategy B, bought 2026-11-09, now +9.7%)
+- BEN (strategy B, bought 2026-11-09, now +2.8%)
+- HUM (strategy B, bought 2026-11-09, now +0.9%)
+- MRNA (strategy B, bought 2026-11-09, now -10.6%)
+- SOLV (strategy B, bought 2026-11-09, now -2.7%)
+- LITE (strategy B, bought 2026-11-09, now +13.7%)
+- VST (strategy B, bought 2026-11-09, now +4.8%)
