@@ -1,11 +1,11 @@
-# Paper-trading report — 2026-11-12
+# Paper-trading report — 2026-11-13
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
 | | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | £500 plan: extra vs S&P | Open | Verdict |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | Beat >5% and up >3% vs S&P on the day; hold 20 days | 0 | | | | | | | | 48 | no-go |
-| B | Same as A; hold 5 days | 41 | 68% | +1.31% | -0.37% | +1.68% | 2.1 | £+107 | £+6.90 | 7 | no-go |
+| B | Same as A; hold 5 days | 47 | 66% | +1.02% | -0.15% | +1.17% | 1.4 | £+96 | £+5.49 | 1 | no-go |
 | C | Same as A; hold 60 days | 0 | | | | | | | | 48 | no-go |
 | D | Strong: beat >10% and up >5%; hold 20 days | 0 | | | | | | | | 12 | no-go |
 | E | A plus volume > 3x normal; hold 20 days | 0 | | | | | | | | 10 | no-go |
@@ -20,14 +20,8 @@ Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0
 **Verdict: NO-GO — keep paper trading**
 
 ## BUY at the next US open (2:30pm UK) — paper
-- none
+- CSCO (strategies H): beat by 5.6%, -5.9% vs S&P on report day
 
 ## SELL on the next trading day, any time before the US close (9pm UK) — paper
-- ABNB (strategy B, bought 2026-11-09, now -6.3%)
-- AKAM (strategy B, bought 2026-11-09, now +9.7%)
-- BEN (strategy B, bought 2026-11-09, now +2.8%)
-- HUM (strategy B, bought 2026-11-09, now +0.9%)
-- MRNA (strategy B, bought 2026-11-09, now -10.6%)
-- SOLV (strategy B, bought 2026-11-09, now -2.7%)
-- LITE (strategy B, bought 2026-11-09, now +13.7%)
-- VST (strategy B, bought 2026-11-09, now +4.8%)
+- CEG (strategy B, bought 2026-11-10, now +2.5%)
+- NRG (strategy B, bought 2026-11-10, now +2.0%)
