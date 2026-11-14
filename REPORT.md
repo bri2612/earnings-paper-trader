@@ -1,4 +1,4 @@
-# Paper-trading report — 2026-11-13
+# Paper-trading report — 2026-11-14
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
@@ -13,6 +13,7 @@ Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% 
 | G | A plus within 5% of 1-year high; hold 20 days | 0 | | | | | | | | 21 | no-go |
 | H | Bounce: beat estimates but fell >5% vs S&P; hold 20 days | 0 | | | | | | | | 32 | no-go |
 | I | A plus repeat beater (beat in >=75% of last 8 reports and last one); hold 20 days | 0 | | | | | | | | 5 | no-go |
+| J | A plus momentum (beat the S&P over the past year); hold 20 days | 0 | | | | | | | | 0 | no-go |
 
 Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0.5%/trade, t ≥ 2.5, worst drawdown better than −20%.
 £500 plan = keep £500 in an S&P 500 fund and move £10 into each signal; the column shows how much more (or less) that would have made than just holding the fund.

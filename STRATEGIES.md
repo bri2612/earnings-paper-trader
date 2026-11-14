@@ -18,6 +18,7 @@ Backtest at the time each was added (UK costs of 0.3% round trip; "beat S&P" = a
 | G | A + within 5% of 1-year high; hold 20 | 2026-11-01 | 1214 / +0.58% / 3.3 / 9 of 12 | 124 / +1.47% / 1.4 |
 | H | Beat estimates but fell >5% vs S&P (bounce); hold 20 | 2026-11-01 | 1688 / +0.39% / 1.9 / 10 of 12 | 283 / +1.36% / 1.7 |
 | I | A + repeat beater (beat in ≥75% of last 8 reports, and the last one); hold 20 | 2026-11-07 (counts reports from 11-06, entry 11-09) | 2077 / +0.51% / 3.4 / 11 of 12 | 293 / +0.34% / 0.5 |
+| J | A + momentum (beat S&P over the past year); hold 20 | 2026-11-14 (counts reports from 11-13, entry 11-16) | 1831 / +0.64% / 4.0 / 10 of 12 | 176 / +1.07% / 1.1 |
 
 Tested and rejected: predicting the earnings-day direction before the report (walk-forward accuracy 50.3%,
 all pre-report signals |correlation| ≤ 0.03).
@@ -33,4 +34,12 @@ Bar for adding: old-period beat S&P > +0.5% with t ≥ 3 and positive in ≥ 9 o
 | A + repeat beater (beat_rate8 ≥ 0.75, last surprise > 0) | 2077 / +0.51% / 3.4 / 11 of 12 | 293 / +0.34% / 0.5 | **Added as I** (only just clears the bar, and overlaps heavily with A) |
 | A + calm stock (1y volatility below the old-period median of 1.63%/day) | 1326 / +0.43% / 3.1 / 9 of 12 | 87 / −1.75% / −2.3 | Rejected: below +0.5% and negative in locked year |
 
-Running total of ideas tried after A–H: 3.
+
+### 2026-11-14 (weekly research #2), 3 ideas tested, 1 added
+| Idea | Old: trades / beat S&P / t / years + | Locked: trades / beat S&P / t | Decision |
+|---|---|---|---|
+| Under-reaction: beat >20% but up only 0–3% vs S&P on the day | 783 / +0.19% / 0.7 / 8 of 12 | 53 / +1.71% / 1.2 | Rejected: weak in old period |
+| Turnaround: A + beat in ≤50% of last 8 reports | 677 / +1.60% / 4.5 / 11 of 12 | 45 / −1.38% / −0.9 | Rejected: negative in locked year |
+| Momentum: A + beat the S&P over the past year (ret250 > 0) | 1831 / +0.64% / 4.0 / 10 of 12 | 176 / +1.07% / 1.1 | **Added as J** (overlaps heavily with A) |
+
+Running total of ideas tried after A–H: 6 (2 added).
