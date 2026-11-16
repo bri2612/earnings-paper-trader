@@ -1,4 +1,4 @@
-# Paper-trading report — 2026-11-14
+# Paper-trading report — 2026-11-16
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
@@ -11,7 +11,7 @@ Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% 
 | E | A plus volume > 3x normal; hold 20 days | 0 | | | | | | | | 10 | no-go |
 | F | A plus closed above its open (no fade); hold 20 days | 0 | | | | | | | | 33 | no-go |
 | G | A plus within 5% of 1-year high; hold 20 days | 0 | | | | | | | | 21 | no-go |
-| H | Bounce: beat estimates but fell >5% vs S&P; hold 20 days | 0 | | | | | | | | 32 | no-go |
+| H | Bounce: beat estimates but fell >5% vs S&P; hold 20 days | 0 | | | | | | | | 33 | no-go |
 | I | A plus repeat beater (beat in >=75% of last 8 reports and last one); hold 20 days | 0 | | | | | | | | 5 | no-go |
 | J | A plus momentum (beat the S&P over the past year); hold 20 days | 0 | | | | | | | | 0 | no-go |
 
@@ -21,8 +21,7 @@ Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0
 **Verdict: NO-GO — keep paper trading**
 
 ## BUY at the next US open (2:30pm UK) — paper
-- CSCO (strategies H): beat by 5.6%, -5.9% vs S&P on report day
+- none
 
 ## SELL on the next trading day, any time before the US close (9pm UK) — paper
-- CEG (strategy B, bought 2026-11-10, now +2.5%)
-- NRG (strategy B, bought 2026-11-10, now +2.0%)
+- TTWO (strategy B, bought 2026-11-11, now -6.5%)
