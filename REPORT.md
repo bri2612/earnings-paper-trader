@@ -1,11 +1,11 @@
-# Paper-trading report — 2026-11-16
+# Paper-trading report — 2026-11-17
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
 | | Strategy | Closed | Win | Avg | S&P 500 same dates | Beat S&P by | t | £200/trade P&L | £500 plan: extra vs S&P | Open | Verdict |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | A | Beat >5% and up >3% vs S&P on the day; hold 20 days | 0 | | | | | | | | 48 | no-go |
-| B | Same as A; hold 5 days | 47 | 66% | +1.02% | -0.15% | +1.17% | 1.4 | £+96 | £+5.49 | 1 | no-go |
+| B | Same as A; hold 5 days | 48 | 65% | +0.78% | -0.22% | +1.00% | 1.2 | £+75 | £+4.78 | 0 | no-go |
 | C | Same as A; hold 60 days | 0 | | | | | | | | 48 | no-go |
 | D | Strong: beat >10% and up >5%; hold 20 days | 0 | | | | | | | | 12 | no-go |
 | E | A plus volume > 3x normal; hold 20 days | 0 | | | | | | | | 10 | no-go |
@@ -24,4 +24,4 @@ Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0
 - none
 
 ## SELL on the next trading day, any time before the US close (9pm UK) — paper
-- TTWO (strategy B, bought 2026-11-11, now -6.5%)
+- none
