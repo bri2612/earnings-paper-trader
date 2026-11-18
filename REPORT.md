@@ -1,4 +1,4 @@
-# Paper-trading report — 2026-11-17
+# Paper-trading report — 2026-11-18
 
 Paper only. Genuine forward trades only (logged before entry). UK costs of 0.3% included.
 
@@ -21,7 +21,8 @@ Go-live test per strategy: ≥100 closed forward trades, beats the S&P 500 by >0
 **Verdict: NO-GO — keep paper trading**
 
 ## BUY at the next US open (2:30pm UK) — paper
-- none
+- TGT (strategies A,B,C,E,F,I,J): beat by 27.2%, +4.3% vs S&P on report day
+- WSM (strategies A,B,C,F,I,J): beat by 37.9%, +4.3% vs S&P on report day
 
 ## SELL on the next trading day, any time before the US close (9pm UK) — paper
 - none
