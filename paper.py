@@ -61,6 +61,9 @@ def update_prices():
 
 def update_earnings(days_back=6):
     """Re-fetch earnings only for companies whose scheduled report fell in the last few days."""
+    # a stale cached Yahoo session token ("Invalid Crumb", HTTP 401) blocks every request; start fresh
+    import shutil, pathlib
+    shutil.rmtree(pathlib.Path.home() / ".cache" / "py-yfinance", ignore_errors=True)
     ed = pd.read_pickle(D / "earnings.pkl").reset_index(drop=True)
     ts = pd.to_datetime(ed["Earnings Date"], utc=True)
     now = pd.Timestamp.now(tz="UTC")
