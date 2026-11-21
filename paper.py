@@ -48,6 +48,8 @@ STRATEGIES = {
           lambda d: A(d) & (d.beat_rate8 >= .75) & (d.last_surp > 0), 20, "2026-11-06"),
     "J": ("A plus momentum (beat the S&P over the past year); hold 20 days",
           lambda d: A(d) & (d.ret250 > 0), 20, "2026-11-13"),
+    "K": ("A plus reported after the market close; hold 20 days",
+          lambda d: A(d) & (d.amc == 1), 20, "2026-11-20"),
 }
 
 

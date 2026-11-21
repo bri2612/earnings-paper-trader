@@ -19,6 +19,7 @@ Backtest at the time each was added (UK costs of 0.3% round trip; "beat S&P" = a
 | H | Beat estimates but fell >5% vs S&P (bounce); hold 20 | 2026-11-01 | 1688 / +0.39% / 1.9 / 10 of 12 | 283 / +1.36% / 1.7 |
 | I | A + repeat beater (beat in ≥75% of last 8 reports, and the last one); hold 20 | 2026-11-07 (counts reports from 11-06, entry 11-09) | 2077 / +0.51% / 3.4 / 11 of 12 | 293 / +0.34% / 0.5 |
 | J | A + momentum (beat S&P over the past year); hold 20 | 2026-11-14 (counts reports from 11-13, entry 11-16) | 1831 / +0.64% / 4.0 / 10 of 12 | 176 / +1.07% / 1.1 |
+| K | A + reported after the market close; hold 20 | 2026-11-21 (counts reports from 11-20, entry 11-23) | 1677 / +1.07% / 5.3 / 12 of 12 | 183 / +1.65% / 1.7 |
 
 Tested and rejected: predicting the earnings-day direction before the report (walk-forward accuracy 50.3%,
 all pre-report signals |correlation| ≤ 0.03).
@@ -42,4 +43,12 @@ Bar for adding: old-period beat S&P > +0.5% with t ≥ 3 and positive in ≥ 9 o
 | Turnaround: A + beat in ≤50% of last 8 reports | 677 / +1.60% / 4.5 / 11 of 12 | 45 / −1.38% / −0.9 | Rejected: negative in locked year |
 | Momentum: A + beat the S&P over the past year (ret250 > 0) | 1831 / +0.64% / 4.0 / 10 of 12 | 176 / +1.07% / 1.1 | **Added as J** (overlaps heavily with A) |
 
-Running total of ideas tried after A–H: 6 (2 added).
+
+### 2026-11-21 (weekly research #3), 3 ideas tested, 1 added
+| Idea | Old: trades / beat S&P / t / years + | Locked: trades / beat S&P / t | Decision |
+|---|---|---|---|
+| Unusual reaction: A + day-0 move > 2x the stock's usual earnings move (avg_absday0) | 1055 / +1.01% / 4.4 / 12 of 12 | 134 / +0.32% / 0.4 | Passed the bar but **not added**: only one per week; K was stronger. Eligible to add in a later week without re-tuning. |
+| After-close reporters: A + amc == 1 | 1677 / +1.07% / 5.3 / 12 of 12 | 183 / +1.65% / 1.7 | **Added as K** (strongest of the week; overlaps heavily with A) |
+| No leak: A + pre-report volume below normal (volu_pre < 1) | 1615 / +0.77% / 4.1 / 10 of 12 | 188 / −0.61% / −0.8 | Rejected: negative in locked year |
+
+Running total of ideas tried after A–H: 9 (3 added).
